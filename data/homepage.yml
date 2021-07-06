@@ -1,0 +1,218 @@
+# homepage
+homepage:
+  head:
+    title: "Home | Trujion"
+# showcase
+showcase:
+  enable: true
+  title: "Let's grow your business together!"
+  subtitle: "We are the consultants that DO."
+  description: "Have you ever worked with a consultant and at the end of the engagement just got a long, double spaced report and a To-Do List? I remember that moment vividly while running my first business. All I could think of was: <i> As a sole-founder, I already have an endless To-Do list. I don't need you to add to it. I need you to tick things off it.</i>"
+  action: "We are the additional co-founders you wish you had."
+
+  image:
+    alt: "Main Blue Banner Image"
+    x: "/img/banners/Main_Banner1.png"
+    _2x: "/img/banners/Main_Banner1@2x.png"
+  imageMobile:
+    alt: "Main Blue Banner Image"
+    x: "/img/banners/Main_Banner_mobile.png"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Let's talk"
+    URL: "#contact"
+
+# services
+services:
+  enable: true
+  title: "We Help Companies With"
+  items:
+    - header: "Business"
+      content: "We are working with founders on everything business-related, from funding to growth strategies to sales and marketing plans, to partnership strategies and execution. There are no domain-specific problems in a company. All business problems are connected."
+
+    - header: "Product"
+      content: "We are helping companies design and build solutions based on their customers' needs. By focusing on user-centred design and employing design thinking methodologies, we help you prioritise features and build products that are pain killers, not vitamins."
+      
+    - header: "Operations"
+      content: "We understand that all functions and activities in a business are interconnected and feed off each other. For a business to succeed and thrive, the processes and flow of information have to be seamless. Using the right tools in the right way can save you time, money and headache."
+
+# about
+about:
+  enable: true
+  title: "Hi I'm Cristina"
+  content: '<p class="lead">
+    I started Trujion to help founders scale their business by plugging in the gap they have in their team. Being a former start-up founder, mentor and start-up accelerator co-founder I know how hard it is to run a business. The pressure to deliver, the lack of resources, the to-do list never shrinking give me the motivation to work with companies on their most pressing challenges. 
+    </p>
+    <p class="lead">
+     I believe in helping founders grow and scale their business by assisting with those under-resourced tasks and ideas: being the additional co-founder you wish you had.
+    </p>'
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Connect with me"
+    URL: "https://www.linkedin.com/in/cristinalcoffey/"
+  image:
+    x: "/img/banners/Cristina.png"
+    _2x: "/img/banners/Cristina@2x.png"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "University of Waterloo"
+      year: "2012-2017"
+      degree: "Bachelor of Applied Science (BASc), Electrical Engineering"
+
+    - university: "Sir John A Macdonald CI"
+      year: "2009-2012"
+      degree: "High School Diploma, Sciences, Math, Computer & Business Studies"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "Over 15+ years of experience working with companies from all over the world. I design & develop digital products to help businesses and improve people's lives."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/company/radity/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "#"
+
+  items:
+    - title: "Sr. Front-End Developer"
+      company: "Radity"
+      duration: "Feb 2011 - Sep 2019"
+
+    - title: "Sr. Front-End Developer"
+      company: "Textic"
+      duration: "Apr 2010 - Jan 2011"
+
+    - title: "Jr. Front-End Developer"
+      company: "Cyberse"
+      duration: "Jun 2009 - Mar 2010"
+
+# Client & Work
+client_and_work:
+  title: "Companies I've Worked With"
+  enable: true
+
+  clients:
+    - logo:
+        x: "/img/clients/befinitive.png"
+        _2x: "/img/clients/befinitive@2x.png"
+      alt: "Befinitive"
+
+    - logo:
+        x: "/img/clients/Singlepoint.png"
+        _2x: "/img/clients/Singlepoint@2x.png"
+      alt: "Singlepoint"
+
+    - logo:
+        x: "/img/clients/InnerSource.png"
+        _2x: "/img/clients/InnerSource@2x.png"
+      alt: "InnerSource"
+
+    - logo:
+        x: "/img/clients/LearnUpon.png"
+        _2x: "/img/clients/LearnUpon@2x.png"
+      alt: "LearnUpon"
+
+    - logo:
+        x: "/img/clients/Allwayswithyou.png"
+        _2x: "/img/clients/Allwayswithyou@2x.png"
+      alt: "Allwayswithyou"
+
+#  works:
+#    - title: "Radity Finance - UI Kit"
+#      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
+#      button:
+#        icon: "icon-arrow-right"
+#        btnText: "Case Study"
+#        URL: "#"
+#      image:
+#        x: "img/works/radity-finance.jpg"
+#        _2x: "img/works/radity-finance@2x.jpg"
+#      is_even: true
+
+#    - title: "Swiss Fintech Website"
+#      description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
+#      button:
+#        icon: "icon-arrow-right"
+#        btnText: "Case Study"
+#        URL: "#"
+#      image:
+#        x: "img/works/swissfintech.jpg"
+#        _2x: "img/works/swissfintech@2x.jpg"
+#      is_even: false
+
+ #   - title: "Robo Advisor"
+ #     description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
+ #     button:
+ #       icon: "icon-arrow-right"
+#        btnText: "Case Study"
+ #       URL: "#"
+ #     image:
+ #       x: "img/works/robo-advisor.jpg"
+ #       _2x: "img/works/robo-advisor@2x.jpg"
+ #     is_even: true
+
+# testimonial
+testimonial:
+  enable: true
+  title: "Testimonials"
+  items:
+    - name: "John Collins"
+      position: "Non-Executive Board Director"
+      content: "Cristina's business-leading and business-supporting credentials are clear, but her empathy for start-up and scaling enterprises and leaders is hugely enthusiastic and motivational. She helps the people themselves to understand ways of achieving the results they crave while building good habits and techniques."
+      image:
+        x: "/img/testimonials/john-collins.png"
+        _2x: "/img/testimonials/john-collins@2x.png"
+
+    - name: "Clare Dillon"
+      position: "NuaWorks, CEO"
+      content: "Whether you or your loved one is encountering the natural decrease in mobility that occurs with the passing of time, or deals with an illness-related lack of physical agility, a stair lift can be the ideal way to put you in charge of your home again. Regardless of the shape or make of your living accommodation."
+      image:
+        x: "/img/testimonials/clare-dillon.png"
+        _2x: "/img/testimonials/clare-dillon@2x.png"
+
+    - name: "William Waldron"
+      position: "Singlepoint, Client Services Director"
+      content: "Cristina was integral to the success of various projects in Singlepoint. Her leadership, work ethic and management style ensured the successful delivery of major contracts for various Global and SME clients over the years. Cristina is very driven, she achieves results and maintains excellent relationships, ensuring project success. "
+      image:
+        x: "/img/testimonials/william-waldron.png"
+        _2x: "/img/testimonials/william-waldron@2x.png"
+
+# contact
+contact:
+  enable: true
+  title: "Let's talk about your project"
+  form:
+    method: "POST"
+    action: "https://formspree.io/f/myylpabg"
+    full_name: "Full Name"
+    email: "Email Address"
+    message: "Type Your Message Here"
+#  phone:
+#    title: "Phone Number"
+#    number: "+41 (44) 505 10 99"
+  email:
+    title: "Email us at"
+    email: '<a href="mailto:info@trujion.com">info@trujion.com</a>'
+  address:
+    title: "Address"
+    address: "Trujion Ltd<br />Dublin 15<br />Ireland"
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+
+# newsletter
+newsletter:
+  enable: true
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."
