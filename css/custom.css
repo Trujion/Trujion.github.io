@@ -1,0 +1,48 @@
+/* You can customize theme styles here */
+.header .navbar-brand img {
+    width: 220px !important;
+}
+
+.header .navbar-light .navbar-nav .nav-link {
+    color: #283592 !important;
+}
+
+.btn-primary {
+    background-color: #6d64e8 !important;
+    border-color: #6d64e8 !important;
+}
+
+.display-1 {
+    color: #e01b84 !important;
+}
+
+p a, span a {
+    color: #6d64e8 !important;
+    border-bottom: 1px solid #6d64e8 !important;
+}
+
+p a, span a:hover {
+    color: #e01b84 !important;
+    border-bottom: 1px solid #e01b84 !important;
+}
+
+.h1, .h2, .h4, .h6, h1, h2,  h4, h6 {
+    color: #e01b84 !important;
+}
+
+.h5, h5 {
+    padding-bottom: 20px;
+}
+
+.h3, h3 {
+    color: #6d64e8 !important;
+}
+
+.section .row.row--padded {
+    margin-top: 40px !important;
+    margin-bottom: 1px !important;
+}
+
+.rad-showcase {
+    margin-bottom: 150px !important;
+}
