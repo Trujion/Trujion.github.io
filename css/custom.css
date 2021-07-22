@@ -34,8 +34,20 @@ p a, span a:hover {
     padding-bottom: 20px;
 }
 
+.h7, h7 {
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 1.78;
+    letter-spacing: -.2px;
+    color: #000;
+}
+
 .h3, h3 {
     color: #6d64e8 !important;
+}
+
+.h2, h2 {
+    font-weight: 500;
 }
 
 .section .row.row--padded {
