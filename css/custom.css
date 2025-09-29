@@ -13,7 +13,7 @@
 }
 
 .display-1 {
-    color: #e01b84 !important;
+    color: #8FAE8E !important;
 }
 
 p a, span a {
@@ -22,12 +22,12 @@ p a, span a {
 }
 
 p a, span a:hover {
-    color: #e01b84 !important;
-    border-bottom: 1px solid #e01b84 !important;
+    color: #8FAE8E !important;
+    border-bottom: 1px solid #8FAE8E !important;
 }
 
 .h1, .h2, .h4, .h6, h1, h2,  h4, h6 {
-    color: #e01b84 !important;
+    color: #8FAE8E !important;
 }
 
 .h5, h5 {
